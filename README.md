@@ -1,32 +1,30 @@
 ## Hi there 👋
 
-### 📊 Steven's GitHub Stats
+<p style="font-size: 14px;">
+  👩‍💻 I'm Steven, a <strong>Computer Engineering student</strong> at the University of Toronto 🇨🇦 <br/>
+  🔧 Currently learning <strong>JavaScript, Python, AI Tools</strong> and building full-stack projects 🛠️ <br/>
+  🤖 Interested in exploring <strong>AI</strong> applications 💡<br/>
+  💼 Experience as a <strong>SWE Intern @ <a href="https://www.skynetsystems.ca/" target="_blank">Skynet Security System Ltd.</a></strong> and <strong>Software Developer @ EWB Canada</strong> 🌍🛠️
+</p>
+
+<hr/>
+
+
+      
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stev-jz&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🧠 Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stev-jz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### ⏱️ Weekly Coding Stats
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=stevjz&layout=compact&theme=radical)](https://wakatime.com/@stev-jz)
+![GitHub Streak](https://streak-stats.demolab.com?user=stev-jz&theme=radical)
 
 
+## 🧰 Tech Stack
+
+<p style="font-size: 14px;">
+💻 <strong>Languages:</strong> TypeScript, JavaScript, Python, C, C++, HTML, CSS<br/>
+🧩 <strong>Frameworks & Libraries:</strong> React, Next.js, Tailwind CSS, Node.js, Vite<br/>
+📦 <strong>Databases & Platforms:</strong> Supabase, Vercel, GitHub<br/>
+🧪 <strong>Tools:</strong> Git, Figma, FastAPI<br/>
+</p>
 
 
-
-
-
-
-<!--
-**stev-jz/stev-jz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
