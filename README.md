@@ -1,7 +1,5 @@
 ## Hi there 👋
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=stev-jz)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stev-jz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stev-jz&repo=some-repo)](https://github.com/some-repo)
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=stev-jz&show_icons=true" />
