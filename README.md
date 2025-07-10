@@ -1,10 +1,17 @@
 ## Hi there 👋
 
+### 📊 Steven's GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stev-jz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stev-jz&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stev-jz&layout=compact" />
-</div>
+### 🧠 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stev-jz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### ⏱️ Weekly Coding Stats
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=stevjz&layout=compact&theme=radical)](https://wakatime.com/@stev-jz)
+
+
+
+
 
 
 
