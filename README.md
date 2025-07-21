@@ -3,7 +3,6 @@
 <p style="font-size: 14px;">
   👩‍💻 I'm Steven, a <strong>Computer Engineering student</strong> at the University of Toronto 🇨🇦 <br/>
   🔧 Currently learning <strong>JavaScript, Python, AI Tools</strong> and building full-stack projects 🛠️ <br/>
-  🤖 Interested in exploring <strong>AI</strong> applications 💡<br/>
   💼 Experience as a <strong>SWE Intern @ <a href="https://www.skynetsystems.ca/" target="_blank">Skynet Security System Ltd.</a></strong>
 </p>
 
