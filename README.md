@@ -16,13 +16,5 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=stev-jz&theme=radical)
 
 
-## 🧰 Tech Stack
-
-<p style="font-size: 14px;">
-💻 <strong>Languages:</strong> TypeScript, JavaScript, Python, C, C++, HTML, CSS<br/>
-🧩 <strong>Frameworks & Libraries:</strong> React, Next.js, Tailwind CSS, Node.js, Vite<br/>
-📦 <strong>Databases & Platforms:</strong> Supabase, Vercel, GitHub<br/>
-🧪 <strong>Tools:</strong> Git, Figma, FastAPI<br/>
-</p>
 
 
