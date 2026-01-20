@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <p style="font-size: 14px;">
-  👩‍💻 I'm Steven, a <strong>Computer Engineering student</strong> at the University of Toronto 🇨🇦 <br/>
-  🔧 Currently learning <strong>JavaScript, Python, AI Tools</strong> and building full-stack projects 🛠️ <br/>
+  I'm Steven, a <strong>Computer Engineering student</strong> at the University of Toronto <br/>
+  🔧 Currently building <strong>Fullstack & AI Tools</strong> <br/>
 </p>
 
 <hr/>
