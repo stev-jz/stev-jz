@@ -1,7 +1,7 @@
 ## Stev-jz
 
 <p style="font-size: 14px;">
-  Currently building <strong>Fullstack & AI Tools</strong> <br/>
+   building Fullstack & AI Tools
 </p>
 
 <hr/>
